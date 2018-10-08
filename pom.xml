@@ -101,13 +101,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8082/mithuntechno/repository/flipkart-releases/</url>
+	      <name>Yashwanth Repository</name>
+	      <url>http://ec2-13-232-178-141.ap-south-1.compute.amazonaws.com:8081/repository/practicenex_Release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8082/mithuntechno/repository/flipkart-snapshot/</url>
+	      <url>http://ec2-13-232-178-141.ap-south-1.compute.amazonaws.com:8081/repository/practiceNex_snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 
